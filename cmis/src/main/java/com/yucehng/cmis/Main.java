@@ -18,6 +18,6 @@ public class Main {
 
 	
 	public static void main(String[] args) {
-		
+		System.out.println("我的的神啊  第一个版本后细雨该");
 	}
 }
